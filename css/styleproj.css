@@ -1,0 +1,108 @@
+#title {
+  background-color: #f8edeb;
+}
+
+.icon {
+  margin-bottom: 20px;
+}
+
+.nav-link {
+  color: #800f2f;
+}
+
+.navbar-brand {
+  color: #800f2f;
+  font-family: 'Amatic SC', cursive;
+  font-size: 2.6rem;
+}
+
+.nav-link {
+  font-family: "Montserrat";
+  font-weight: 100;
+  font-size: 1.2rem;
+}
+
+.container-fluid {
+  padding: 3% 10%;
+  padding-bottom: 5%;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #f8edeb;
+  color: #800f2f;
+}
+
+.carousel-item {
+  padding: 5% 12%;
+  padding-bottom: 7%;
+}
+
+.testimonial-img {
+  width: 40%;
+  margin: 20px;
+}
+
+.gradient-custom-2 {
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, #f8edeb, #d8363a, #dd3675, #b44593);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, #fae0e4, #f7cad0, #f9bec7, #fbb1bd);
+}
+
+#features {
+  padding: 7% 15%;
+  position: relative;
+  z-index: 1;
+  background-color: white;
+}
+
+.fas {
+  font-size: 4rem;
+  color: #800f2f;
+  padding-bottom: 15px;
+  margin-left: 35%;
+}
+
+.fas:hover {
+  color: #fff0f3;
+}
+#frm{
+  font-family: 'Bona Nova', serif;
+}
+h4 {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: black;
+  text-align: center;
+}
+#donthave{
+  font-size: 1rem;
+  text-align: center;
+  padding-top: 9px;
+  font-family: 'Bona Nova', serif;
+  padding-left:10px;
+
+}
+.mb-0 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.5rem;
+  color: #800f2f;
+  text-align: center;
+}
+.mb-4{
+  font-weight: bolder;
+}
+
+.smi {
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-top: 15px;
+  padding-bottom: 25px;
+}
+
+#footer {
+  text-align: center;
+  padding: 7% 15%;
+}

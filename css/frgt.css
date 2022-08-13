@@ -1,0 +1,23 @@
+body{
+  background-color: #f8edeb;
+  padding: 3% 30%;
+
+  background: linear-gradient(to bottom, #fae0e4, #f7cad0, #f9bec7, #fbb1bd);
+}
+.gradient-custom {
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, #f8edeb, #d8363a, #dd3675, #b44593);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, #fae0e4, #f7cad0, #f9bec7, #fbb1bd);
+}
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h4{
+  font-family:serif;
+}
+.icon{
+  padding-bottom: 30px;
+}

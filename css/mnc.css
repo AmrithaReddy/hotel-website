@@ -1,0 +1,87 @@
+body{
+  background: -webkit-linear-gradient(to right, #f8edeb, #d8363a, #dd3675, #b44593);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, #fae0e4, #f7cad0, #f9bec7, #fbb1bd);
+  padding: 3% 7%;
+}
+
+.icon{
+  padding-right:4%;
+}
+.search{
+  padding-left: 8%;
+  padding-right: 8%;
+  padding-top: 0.25%;
+  padding-bottom: 0.25%;
+}
+
+
+#start{
+  margin-left: 3%;
+  padding-left: 2%;
+  text-align: center;
+  padding-top: 0.25%;
+  padding-bottom: 0.25%;
+}
+.btn{
+  padding-left: 3%;
+  padding-right: 3%;
+  margin-left: 6%;
+  text-align: center;
+  background-color: white;
+}
+.row{
+  background-color: white;
+  padding: 3%;
+}
+
+.container{
+  margin-top: 7%;
+}
+.hotels{
+  width:250px;
+}
+.title{
+  margin-left: 3%;
+  margin-top: 0%;
+}
+.btn-box{
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+  padding-left: 5%;
+  padding-right: 1%;
+  background-color: white;
+  color: black;
+  border-color:  black;
+  border-radius: 5%;
+}
+.btn-box:hover{
+  background-color: #fff0f3;
+}
+.fas{
+  margin-right: 17px;
+  margin-left: 8px;
+}
+div{
+  column-gap: 30px;
+  text-align: center;
+
+
+}
+.container{
+  margin-top: 2%;
+  background-color: #fae0e4;
+
+
+}
+
+h1{
+  font-family: 'Amatic SC', cursive;
+  font-weight: 700px;
+  color: #800f2f;
+}
+
+p{
+  font-family: 'Amatic SC', cursive;
+font-family: 'Bad Script', cursive;
+}
